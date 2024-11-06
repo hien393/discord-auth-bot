@@ -1,0 +1,5 @@
+aiohttp
+aiosqlite
+py-cord
+quart
+print('smklnkk')
